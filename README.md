@@ -35,9 +35,16 @@ Some running commands can be found in [`./commands/commands.txt`](https://github
 ```
 ## Cite
 Please consider cite our paper if you find the paper and the code useful.
-
-
-## Refernece
-
+```
+@inproceedings{liang2023contrastive,
+  title={Contrastive Box Embedding for Collaborative Reasoning},
+  author={Liang, Tingting and Zhang, Yuanqing and Di, Qianhui and Xia, Congying and Li, Youhuizi and Yin, Yuyu},
+  booktitle={Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages={38--47},
+  year={2023}
+}
+```
 For inquiries contact Yuanqing Zhang (zhangyuanqing@hdu.edu.cn) or Tingting Liang (liangtt@hdu.edu.cn)
+
+
 
